@@ -1,8 +1,8 @@
-## HPVmodelTurkey
+# HPVmodelTurkey
 Dynamic compartmental epidemic model for HPV in Turkish Population 
 
 
-# Summary
+## Summary
 
 
 Dynamic compartmental model is developed in order to evaluate transmission of HPV 16/18 in the in the Turkish population. Compartmental model is described 
@@ -20,6 +20,6 @@ to the system because multiplication of the terms which are number of the people
 for each gender and genotypes.
 
 
-# Citation
+## Citation
 
 
