@@ -20,6 +20,12 @@ to the system because multiplication of the terms which are number of the people
 for each gender and genotypes.
 
 
+## Compartmental Model
+
+<img width="458" alt="Screen Shot 2022-06-28 at 18 32 03" src="https://user-images.githubusercontent.com/74323712/176220263-03278b22-b638-45b4-8051-4d3814bd239f.png">
+
+<img width="350" alt="Screen Shot 2022-06-28 at 18 32 16" src="https://user-images.githubusercontent.com/74323712/176220298-eeffcf5c-1144-42c3-b62e-c1d05647819c.png">
+
 ## Citation
 
 
