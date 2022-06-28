@@ -20,3 +20,6 @@ to the system because multiplication of the terms which are number of the people
 for each gender and genotypes.
 
 
+# Citation
+
+
