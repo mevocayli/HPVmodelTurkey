@@ -22,10 +22,13 @@ for each gender and genotypes.
 
 ## Compartmental Model
 
+<p align="center">
 <img width="458" alt="Screen Shot 2022-06-28 at 18 32 03" src="https://user-images.githubusercontent.com/74323712/176220263-03278b22-b638-45b4-8051-4d3814bd239f.png">
+</p>
 
-
+<p align="center">
 <img width="341" alt="Screen Shot 2022-06-28 at 18 35 15" src="https://user-images.githubusercontent.com/74323712/176220950-253b79e5-3174-44f0-8d61-3bb0f041d672.png">
+</p>
 
 
 
